@@ -1,0 +1,10 @@
+[23-Dec-2021 07:20:20 UTC] PHP Warning:  require_once(../base.ini.php): failed to open stream: No such file or directory in /home/tvql1pexcwzt/public_html/vijayaveedhi/student/design/dashboard.php on line 3
+[23-Dec-2021 07:20:20 UTC] PHP Fatal error:  require_once(): Failed opening required '../base.ini.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tvql1pexcwzt/public_html/vijayaveedhi/student/design/dashboard.php on line 3
+[23-Dec-2021 07:21:47 UTC] PHP Notice:  Undefined variable: st_count in /home/tvql1pexcwzt/public_html/vijayaveedhi/student/design/dashboard.php on line 28
+[23-Dec-2021 07:21:47 UTC] PHP Notice:  Undefined variable: st_count in /home/tvql1pexcwzt/public_html/vijayaveedhi/student/design/dashboard.php on line 46
+[23-Dec-2021 07:21:47 UTC] PHP Notice:  Undefined variable: st_count in /home/tvql1pexcwzt/public_html/vijayaveedhi/student/design/dashboard.php on line 64
+[23-Dec-2021 07:21:47 UTC] PHP Notice:  Undefined variable: vtc_count in /home/tvql1pexcwzt/public_html/vijayaveedhi/student/design/dashboard.php on line 82
+[23-Dec-2021 07:22:47 UTC] PHP Notice:  Undefined variable: st_count in /home/tvql1pexcwzt/public_html/vijayaveedhi/student/design/dashboard.php on line 28
+[23-Dec-2021 07:22:47 UTC] PHP Notice:  Undefined variable: st_count in /home/tvql1pexcwzt/public_html/vijayaveedhi/student/design/dashboard.php on line 46
+[23-Dec-2021 07:22:47 UTC] PHP Notice:  Undefined variable: st_count in /home/tvql1pexcwzt/public_html/vijayaveedhi/student/design/dashboard.php on line 64
+[23-Dec-2021 07:22:47 UTC] PHP Notice:  Undefined variable: vtc_count in /home/tvql1pexcwzt/public_html/vijayaveedhi/student/design/dashboard.php on line 82
